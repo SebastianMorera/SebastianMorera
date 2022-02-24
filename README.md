@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @SebastianMorera!
 
 - 💻  I'm a fresh university graduate in electrical engineering working as an embedded software developper. 
-- 🌱  I’m currently learning C, C++, python, JavaScript.
+- 🌱  I’m currently working in C, C++ and Python.
 
 - 💞️  I’m looking to collaborate on projects that could help me deepen my programming knowledge.
 - 📫  How to reach me : sebas.morera999@hotmail.com
