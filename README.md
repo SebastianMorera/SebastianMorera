@@ -4,7 +4,9 @@
 - 🌱  I’m currently working in C, C++ and Python.
 
 - 💞️  I’m looking to collaborate on projects that could help me deepen my programming knowledge.
-- 📫  How to reach me : sebas.morera999@hotmail.com
+- 📫  How to reach me : 
+        https://www.linkedin.com/in/sebastian-morera-670321160
+        sebas.morera999@hotmail.com
 
 <!---
 SebastianMorera/SebastianMorera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
